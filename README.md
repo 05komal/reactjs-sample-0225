@@ -146,18 +146,13 @@ In the project directories, you can run:
 - Minor alignment issues with the search button and add task button.
 - A small bug with cookies in production when using JWT (will be fixed soon).
 
-## 🤝 Contributing
 
-Feel free to fork the repository, submit issues, or make pull requests. Any contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 ## 👨‍💻 Author
 
-**Razak** - [GitHub](https://github.com/razak571)
+*Komal Yadav* - [GitHub](https://github.com/05komal)
 
----
-
-⭐️ If you found this project helpful, please give it a star on GitHub! ⭐️
